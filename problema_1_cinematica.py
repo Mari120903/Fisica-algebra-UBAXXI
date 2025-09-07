@@ -1,5 +1,3 @@
-#Enunciado del problema de Física (del parcial que me pasaste):
-
 #Problema 1. Un ciclista parte del reposo y se desplaza en línea recta. A los 30 s alcanza una velocidad de 10 m/s. Si su aceleración es constante, determinar su aceleración y la distancia recorrida en ese lapso.
 
 """ Lógica y código
